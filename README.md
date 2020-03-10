@@ -55,11 +55,6 @@ macOS for ThinkPad X250 (Mojave & Catalina)
 - SD Card Reader
 - Bluetooth
 
-![0Display](./screenshot/display.png)
-![0Power](./screenshot/power.png)
-![0Bluetooth](./screenshot/bluetooth.png)
-
-
 #### Not working
 
 - Fingerprint Reader
