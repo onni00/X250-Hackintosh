@@ -26,7 +26,7 @@ macOS for ThinkPad X250 (Mojave & Catalina)
 | Secure Boot | Disabled |
 | Startup Network Boot | PCI Lan |
 | UEFI/Legacy Boot | UEFI Only |
-| CSM Support | Enabled |
+| CSM Support | Disabled |
 | Boot Mode | Quick |
 
 ### 3. Hardware
@@ -43,7 +43,7 @@ macOS for ThinkPad X250 (Mojave & Catalina)
 #### What will work
 
 - Power Management (C/P-States, Fan RPM, Speedstep, etc)
-- HD Intel Graphic Card (HD4000)
+- HD Intel Graphic Card (HD5500)
 - Sleep (Sleep from menu + lid close sleep)
 - Camera
 - Ethernet
@@ -83,7 +83,6 @@ Inbuilt Intel WiFi won't work out of the box.
 
 - AirportBrcmFixup.kext (for DW1820A and DW1560)
 - ACPIBatteryManager.kext
-- ACPIPoller.kext
 - AppleALC.kext
 - BrcmBluetoothInjector.kext (requires for BrcmPatchRAM3.kext)
 - BrcmFirmwareData.kext
@@ -95,7 +94,6 @@ Inbuilt Intel WiFi won't work out of the box.
 - USBPorts.kext
 - VoodooPS2Controller.kext
 - VoodooInput.kext
-- VoodooSDHC.kext
 - WhateverGreen.kext
 
 ### 3. Patched
