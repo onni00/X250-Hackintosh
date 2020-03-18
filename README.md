@@ -100,7 +100,6 @@ Inbuilt Intel WiFi won't work out of the box.
 
 - Copy patch to /ACPI/patched/
 
-## Issue:
 
 ## Support me
 
