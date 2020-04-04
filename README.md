@@ -68,7 +68,7 @@ Inbuilt Intel WiFi won't work out of the box.
 - Dell DW1820A – 802.11a/b/g/n 2.4 GHz & 5 GHz (Broadcom)
 - Dell DW1560 - 802.11a/b/g/n 2.4 GHz & 5 GHz (Broadcom)
 - Dell DW1830 – 802.11ac 2.4 GHz & 5 GHz (Broadcom)
-
+for external wifi usb https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases/tag/V14
 ## Installation
 
 ....
