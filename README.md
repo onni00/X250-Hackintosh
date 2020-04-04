@@ -83,7 +83,7 @@ Inbuilt Intel WiFi won't work out of the box.
 
 - AirportBrcmFixup.kext (for DW1820A and DW1560)
 - ACPIBatteryManager.kext
-- AppleALC.kext
+- AppleALC.kext --> i fix with VoodooHDA.kext
 - BrcmBluetoothInjector.kext (requires for BrcmPatchRAM3.kext)
 - BrcmFirmwareData.kext
 - BrcmPatchRAM2.kext (BrcmPatchRAM3.kext for Catalina)
@@ -97,11 +97,10 @@ Inbuilt Intel WiFi won't work out of the box.
 - WhateverGreen.kext
 
 ### 3. Patched
+patch to /ACPI/patched/
 
-- Copy patch to /ACPI/patched/
 
-
-## Support me
+credits
 
 - Paypal: <https://www.paypal.me/thebinhluong0519>
 - Ethereum: 0xC202255193D95979A7C937aA3CB5220FAD9E2aBe
